@@ -2,11 +2,11 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Charles Dev Blog",
-  description: "軟體開發技術分享",
+  title: "測試標題",
+  description: "測試說明",
   cleanUrls: true,
   srcDir: "src",
-  base: "/dev_blog/", // 根據 repo 名稱設定
+  base: "/github-pages/", // 根據 repo 名稱設定
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
