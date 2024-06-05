@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Charles Dev Blog"
-  text: "軟體開發技術分享"
+  name: "測試標題"
+  text: "測試內容"
   tagline: My great project tagline
   actions:
     - theme: brand
@@ -22,4 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
